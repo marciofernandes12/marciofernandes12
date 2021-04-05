@@ -6,7 +6,11 @@ Me chamo Márcio, sou estudante de Ciência da Computação, atualmente estou no
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marciofernandes12&show_icons=true&theme=dracula)
 
+<<<<<<< HEAD
 Tecnologias 👋
+=======
+Tecnologias
+>>>>>>> 42621d4566afc54fde5727664c814ed1ea9a7d66
 
 Backend
 
