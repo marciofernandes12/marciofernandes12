@@ -4,7 +4,7 @@
 Me chamo Márcio, sou estudante de Ciência da Computação, atualmente estou no 7º período.
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marciofernandes12)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marciofernandes12&show_icons=true&theme=dracula)
 
 Tecnologias
 
