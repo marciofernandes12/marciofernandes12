@@ -1,7 +1,7 @@
 
 
 ### Olá 👋
-Me chamo Márcio, bacharel Ciência da Computação.
+Me chamo Márcio, bacharel em Ciência da Computação.
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marciofernandes12&show_icons=true&theme=dracula)
